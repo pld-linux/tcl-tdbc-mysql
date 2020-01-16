@@ -1,12 +1,12 @@
 Summary:	TDBC driver to access MySQL databases
 Summary(pl.UTF-8):	Sterownik TDBC służący do dostępu do baz danych MySQL
 Name:		tcl-tdbc-mysql
-Version:	1.1.0
+Version:	1.1.1
 Release:	1
 License:	Tcl (BSD-like)
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/tcl/tdbcmysql%{version}.tar.gz
-# Source0-md5:	a3028b7887da7b1462bd011be61f6ecb
+# Source0-md5:	bc65688088091b770ef06bde37350b01
 URL:		http://tdbc.tcl.tk/
 BuildRequires:	tcl-devel >= 8.6
 BuildRequires:	tcl-tdbc-devel >= %{version}
